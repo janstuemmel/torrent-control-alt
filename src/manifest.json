@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Torrent Control Alt",
-  "version": "0.2.17",
+  "version": "0.2.18",
   "description": "Alternative Torrent Control for second server",
   "default_locale": "en",
   "icons": {
